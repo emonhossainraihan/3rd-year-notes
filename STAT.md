@@ -1,0 +1,2 @@
+- [A First Course on Statistical Inference](https://bookdown.org/egarpor/inference/)
+- [Probability Course](https://www.probabilitycourse.com)
