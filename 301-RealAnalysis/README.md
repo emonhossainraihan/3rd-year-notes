@@ -26,21 +26,21 @@ Investigating whether a convergence is uniform or not, we consider
 
 ![](../images/pointwise-06.PNG)
 
-## Lecture-02
+## Lecture-02 (Proof 6.3.1)
 
-### 6.3.2
+We can exchange limit concept with delta-epsilon concept whenever need [22:00-24:00](https://www.youtube.com/watch?v=qteQ6PdyHWY&list=PLdMfoghed2YIDsRZlN2CfJHuKl4-c5XEo&index=10&t=1518s)
 
-We can exchange limit concept with delta-epsilon concept whenever need [22:00-24:00](https://drive.google.com/drive/u/0/folders/1EhIa9NEEdXHdtmL6MZWZFpTCRvT9GEhJ)
-
-## Lecture-03
-
-### 6.3.3
+## Lecture-03 (Proof 6.3.2)
 
 - [Proof X^n is not uniform convergent](https://en.wikipedia.org/wiki/Uniform_convergence#Examples)
 
 We can give an equivalent alternative formulation for uniform convergence in term of cauchy if the space is (complete) metric space
 
 ## Lecture-04
+
+UC implies limit and integration of dequence of function is commutative.
+
+6.4.1 - 6.4.5
 
 ## Lecture-05
 
