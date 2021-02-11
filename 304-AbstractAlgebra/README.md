@@ -1,3 +1,9 @@
+the theory of algebraic equations, number theory,
+and geometry. All three of these areas used group­
+theoretic methods of reasoning, although the meth­
+ods were considerably more explicit in the first
+area than in the other two.
+
 - [advice](https://www.d.umn.edu/~jgallian/advice.html)
 - [order-of-group](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/Order-group-theory.pdf)
 

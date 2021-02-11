@@ -42,3 +42,5 @@ The inequalities Ax ≤ b and x ≥ 0 are the constraints which specify a convex
 - **Optimum Solution:** Any basic feasible solution which optimizes the objective function of the general LPP is known as an optimum solution to the LLP.
 
 - [Union Difference of CS](https://math.stackexchange.com/questions/1014953/union-and-difference-of-convex-set)
+
+[ linear programming: CosmoLearning](https://www.youtube.com/playlist?list=PLaLOVNqqD-2E-LmVcc3xQZZYCZ5lz52uF)

@@ -44,4 +44,10 @@ UC implies limit and integration of dequence of function is commutative.
 
 ## Lecture-05
 
+If a series of sequence of function is convergence then their [property](https://www.youtube.com/watch?v=U1Z0KRuUnMw&list=PLdMfoghed2YIDsRZlN2CfJHuKl4-c5XEo&index=8&t=1654s)
+
 ## Lecture-06
+
+Several variable calculus
+
+## Lecture-08
