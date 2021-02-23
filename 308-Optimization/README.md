@@ -41,6 +41,26 @@ The inequalities Ax ≤ b and x ≥ 0 are the constraints which specify a convex
 
 - **Optimum Solution:** Any basic feasible solution which optimizes the objective function of the general LPP is known as an optimum solution to the LLP.
 
+A linear program in canonical form can be replaced by a linear program in standard form by just
+replacing Ax ≤ b by Ax + Is = b, s ≥ 0 where s is a vector of slack variables and I is the m × m
+identity matrix.
+
+## Internet Study
+
 - [Union Difference of CS](https://math.stackexchange.com/questions/1014953/union-and-difference-of-convex-set)
 
 [ linear programming: CosmoLearning](https://www.youtube.com/playlist?list=PLaLOVNqqD-2E-LmVcc3xQZZYCZ5lz52uF)
+
+[Fourier–Motzkin elimination](https://www.youtube.com/watch?v=cJTJ7KMFBIs&list=PLaLOVNqqD-2E-LmVcc3xQZZYCZ5lz52uF&index=7)
+
+[Basic and Non-basic Variables, Feasible Region and Extreme Points](https://www.youtube.com/watch?v=CS4YtctxFi0)
+
+[MOOCOR Topic6 Module 02](https://www.youtube.com/watch?v=gZYqXTU1Tz4)
+
+The simplex algorithm is the original and still one of the most widely used methods for solving linear maximization problems. However, to apply it, the origin (all variables equal to 0) must be a feasible point. This condition is satisfied only when all the constraints (except non-negativity) are less-than constraints and with a positive constant on the right-hand side. The Big M method introduces surplus and artificial variables to convert all inequalities into that form. The "Big M" refers to a large number associated with the artificial variables, represented by the letter M.
+
+[What to do about equality constraints in the Simplex Tableau method](https://math.stackexchange.com/a/1309525/736159)
+
+[Big M method](https://en.wikipedia.org/wiki/Big_M_method#Other_usage)
+
+http://arts.brainkart.com/article/big-m-method--introduction--1123/
