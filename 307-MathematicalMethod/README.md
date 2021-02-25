@@ -61,3 +61,7 @@ Each of these vectors make a whole number of rotations around 0, so its average 
 If you wanted to compute a different term like C_k in front of the vector rotating k cycles per second, then the trick is to first multiply f(t) by something which makes that vector hold still.
 
 ![](./images/function-as-sum-03.PNG)
+
+## Fourier series
+
+![](./images/change-interval.png)

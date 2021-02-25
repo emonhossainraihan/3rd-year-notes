@@ -63,3 +63,5 @@ A key connection between the two comes from martingale theory. For a martingale 
 - [SOME BASIC PROPERTIES OF BROWNIAN MOTION](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2009/REUPapers/McKnight.pdf)
 
 - [What is the Kolmogorov Extension Theorem good for?](https://math.stackexchange.com/questions/94441/what-is-the-kolmogorov-extension-theorem-good-for)
+
+> a two-sided Brownian motion cannot be a martingale nor even a local martingale in any filtration and you therefore cannot perform stochastic integration with respect to it.
