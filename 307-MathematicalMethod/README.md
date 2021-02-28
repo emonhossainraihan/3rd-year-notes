@@ -65,3 +65,5 @@ If you wanted to compute a different term like C_k in front of the vector rotati
 ## Fourier series
 
 ![](./images/change-interval.png)
+
+![What is the difference between Fourier series and Fourier transformation?](https://math.stackexchange.com/questions/221137/what-is-the-difference-between-fourier-series-and-fourier-transformation)
