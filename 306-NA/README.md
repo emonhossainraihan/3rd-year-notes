@@ -37,3 +37,21 @@ Jacobi method does not converge
 If the linear system is ill-conditioned, it is most probably that the Jacobi method will fail to converge. The Jacobi method can generally be used for solving linear systems in which the coefficient matrix is diagonally dominant.
 
 https://math.stackexchange.com/questions/1607530/how-do-i-find-optimal-%CF%89-for-sor-method
+
+## Eigenvalue estimate
+
+[Gershgorin Circle Theorem to estimate the eigenvalues](https://scicomp.stackexchange.com/questions/1801/gershgorin-circle-theorem-to-estimate-the-eigenvalues)
+
+https://www.lem.ma/books/BpCFAP27bgq6U3D-ympsug/landing
+
+[Gershgorin circle theorem and similarity transformations](https://math.stackexchange.com/questions/3517040/gershgorin-circle-theorem-and-similarity-transformations/)
+
+[How to prove a tighter bound for an eigenvalue of A with Gerschgorin's theorem and similar matrices](https://math.stackexchange.com/questions/3721084/how-to-prove-a-tighter-bound-lambda-3-1-leq-epsilon2-for-an-eigenvalue-o)
+
+http://web.mit.edu/18.06/www/Spring17/Power-Method.pdf
+
+https://www.mpp.mpg.de/~jingliu/ECPI/PowerMethodProof.pdf
+
+Gershgorin Circle Theorem to estimate the eigenvalues: https://scicomp.stackexchange.com/a/1804
+
+To get good bounds for a general matrix, one must compute an approximate eigensystem and then express the matrix in this basis by a simiarity transform. This doesn't change the eigenvalues but makes the off-diagonal entries small, so that the above applies.
