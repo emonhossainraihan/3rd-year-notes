@@ -51,3 +51,5 @@ If a series of sequence of function is convergence then their [property](https:/
 Several variable calculus
 
 ## Lecture-08
+
+## http://www.supermath.info/math332.pdf

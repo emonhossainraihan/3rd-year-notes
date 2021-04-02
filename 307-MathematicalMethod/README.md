@@ -118,3 +118,7 @@ https://www.quora.com/What-is-the-Fourier-transform-and-how-does-it-function
 ## From Fourier series to Fourier integral
 
 [A brief Introduction to all](http://www.thphys.nuim.ie/Notes/EE206/EE206_10.pdf)
+
+[What boundary condition is imposed when Fourier transform is used for solving differential equation on infinite domain](https://math.stackexchange.com/q/2084704/736159)
+
+[An Introduction to Separation of Variables](<https://people.math.rochester.edu/faculty/chaessig/students/McCrossen(S10).pdf>)

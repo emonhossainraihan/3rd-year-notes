@@ -69,3 +69,36 @@ If a function is holomorphic and the derivative never vanishes, then the functio
 Mobius transformations preserve angles, map every straight line to a line or circle, and map every circle to a line or circle. The Mobius transformations are the projective transformations of the complex projective line. They form a group called the Mobius group, which is the projective linear group PGL(2,C). Together with its subgroups, it has numerous applications in mathematics and physics.
 
 [Conformal Mapping | Möbius Transformation](https://www.youtube.com/watch?v=48aerHs9wL0)
+
+## Laurent series
+
+![](./images/type-of-singularities.png)
+
+![](./images/removal-singularity.png)
+
+![](./images/pole-singularity.png)
+
+![](./images/essential-singularity.png)
+
+## Laurent Series Explained | How to Determine Laurent Series | Complex Analysis #9
+
+https://www.youtube.com/watch?v=RC15R-ktnUI
+
+## Conformal Mapping | image under conformal maps
+
+https://www.library.gscgandhinagar.in/assets/admin/images/MAT-303(UNIT%203).pdf
+
+## Taylor and Laurent series
+
+https://math.mit.edu/~jorloff/18.04/notes/topic7.pdf
+
+## Coursera final
+
+- [analytic functions from square to unit disk](https://math.stackexchange.com/questions/28714/analytic-functions-from-square-to-unit-disk)
+- [Finding Radii of Convergence for](https://math.stackexchange.com/questions/699224/finding-radii-of-convergence-for-sum-a-n-z2n-and-sum-a-n2-zn)
+- [Find where converges or diverges](https://math.stackexchange.com/questions/1632205/find-where-sum-n-0-infty-a-nz3-in-converges-or-diverges)
+- https://math.mit.edu/~jorloff/18.04/notes/topic9.pdf
+- [Conformal map but not analytic](https://math.stackexchange.com/questions/2403204/conformal-map-but-not-analytic)
+- [Finding a conformal map from unit disk to half-plane](https://math.stackexchange.com/questions/228630/finding-a-conformal-map-from-unit-disk-to-half-plane?rq=1)
+- [Is the complex exponential function injective, surjective and/or bijective - and why?](https://math.stackexchange.com/questions/21191/is-the-complex-exponential-function-injective-surjective-and-or-bijective-and)
+- [Singularities, essential singularities, poles, simple poles](https://math.stackexchange.com/questions/1284316/singularities-essential-singularities-poles-simple-poles)

@@ -85,8 +85,14 @@ The basic idea is that a basis is the collection of all finite intersections of 
 
 If S is a partition of X then the collection of finite (non-empty) intersections of S will be S∪{∅}.
 
+Boundaries of the unit balls B1(0) in R2 for the ℓ1-norm (diamond),the ℓ2-norm (circle), and the ℓ1-norm (square).
+
 ## last axiom of neighborhood system
 
 [N3](https://math.stackexchange.com/a/2369687/736159)
 
 [Overview of basic results about images and preimages](https://math.stackexchange.com/questions/359693/overview-of-basic-results-about-images-and-preimages)
+
+## very nice Explanation
+
+[What does it mean to induce a topology?](https://math.stackexchange.com/questions/523198/what-does-it-mean-to-induce-a-topology)
