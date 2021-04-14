@@ -26,6 +26,8 @@ The rows, columns, and diagonals all add up to 15, and moreover every way of wri
 
 A homomorphism is simply an isomorphism that is not bijective.
 
+If you havestudied some other branches of math, these functions are the analogues of bijective linear trans-formations for vector spaces, isomorphisms between groups/rings/fields/modules/graphs/linearorders/etc., diffeomorphisms between manifolds, etc.
+
 ## Operation
 
 A substitute for the word function usually used when you want to treat the function as a single atomic object. Ex: order of operations (here functions are the little things, and we are looking at a larger idea of how to evaluate them, what order, etc...). Another example: Quicksort takes O(n log n) floating point operations on randomized inputs. Here operation is short hand for: addition, subtraction, division, multiplication, comparison. But those functions and their inputs (integers) really aren’t the main point. The main point is we want to count how many times we do them, so we call them operations to make this context clear.

@@ -96,3 +96,7 @@ Boundaries of the unit balls B1(0) in R2 for the ℓ1-norm (diamond),the ℓ2-no
 ## very nice Explanation
 
 [What does it mean to induce a topology?](https://math.stackexchange.com/questions/523198/what-does-it-mean-to-induce-a-topology)
+
+## http://www.math.toronto.edu/ivan/mat327/index.html?resources
+
+![](./images/toronto.png)

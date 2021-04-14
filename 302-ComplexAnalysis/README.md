@@ -1,3 +1,5 @@
+> Not only for complex plane but also for n dimension, if we take open ball to trace out the derivative (as we do for 1-dimension with LHS and RHS limit) then it give you weather the function is differentiable at that point or not.
+
 ## Lecture-02
 
 - [the product of all the nth roots of unity](https://math.stackexchange.com/q/115558/565609)
@@ -95,10 +97,28 @@ https://math.mit.edu/~jorloff/18.04/notes/topic7.pdf
 ## Coursera final
 
 - [analytic functions from square to unit disk](https://math.stackexchange.com/questions/28714/analytic-functions-from-square-to-unit-disk)
-- [Finding Radii of Convergence for](https://math.stackexchange.com/questions/699224/finding-radii-of-convergence-for-sum-a-n-z2n-and-sum-a-n2-zn)
+- [Finding Radii of Convergence for anz^2n](https://math.stackexchange.com/questions/699224/finding-radii-of-convergence-for-sum-a-n-z2n-and-sum-a-n2-zn)
 - [Find where converges or diverges](https://math.stackexchange.com/questions/1632205/find-where-sum-n-0-infty-a-nz3-in-converges-or-diverges)
 - https://math.mit.edu/~jorloff/18.04/notes/topic9.pdf
 - [Conformal map but not analytic](https://math.stackexchange.com/questions/2403204/conformal-map-but-not-analytic)
 - [Finding a conformal map from unit disk to half-plane](https://math.stackexchange.com/questions/228630/finding-a-conformal-map-from-unit-disk-to-half-plane?rq=1)
 - [Is the complex exponential function injective, surjective and/or bijective - and why?](https://math.stackexchange.com/questions/21191/is-the-complex-exponential-function-injective-surjective-and-or-bijective-and)
 - [Singularities, essential singularities, poles, simple poles](https://math.stackexchange.com/questions/1284316/singularities-essential-singularities-poles-simple-poles)
+
+https://math.mit.edu/~jorloff/18.04/notes/topic9.pdf
+
+https://socratic.org/calculus/power-series/determining-the-radius-and-interval-of-convergence-for-a-power-series
+
+## Differentiation of power series page:7
+
+https://www.math.ucdavis.edu/~hunter/m125a/intro_analysis_ch6.pdf
+
+## Why imaginary numbers are needed to understand the radius of convergence
+
+https://www.youtube.com/watch?v=83exawMU9Fg
+
+## The beauty of complex numbers
+
+https://www.youtube.com/watch?v=6_u18uFEoN0
+
+https://www.youtube.com/watch?v=8tiQl6T-inE

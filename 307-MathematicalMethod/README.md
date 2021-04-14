@@ -122,3 +122,9 @@ https://www.quora.com/What-is-the-Fourier-transform-and-how-does-it-function
 [What boundary condition is imposed when Fourier transform is used for solving differential equation on infinite domain](https://math.stackexchange.com/q/2084704/736159)
 
 [An Introduction to Separation of Variables](<https://people.math.rochester.edu/faculty/chaessig/students/McCrossen(S10).pdf>)
+
+[The Linear Algebra of Fourier Transforms](https://www.youtube.com/watch?v=7Vma1G2p6A8)
+
+[The Mathematics of Signal Processing | The z-transform, discrete signals, and more](https://www.youtube.com/watch?v=hewTwm5P0Gg)
+
+[The intuition behind Fourier and Laplace transforms I was never taught in school](https://www.youtube.com/watch?v=3gjJDuCAEQQ)
