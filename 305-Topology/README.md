@@ -100,3 +100,34 @@ Boundaries of the unit balls B1(0) in R2 for the ℓ1-norm (diamond),the ℓ2-no
 ## http://www.math.toronto.edu/ivan/mat327/index.html?resources
 
 ![](./images/toronto.png)
+
+## After Reading toronto Notes
+
+- https://math.stackexchange.com/questions/2117560/what-are-the-convergent-sequences-in-the-cofinite-topology
+- https://proofwiki.org/wiki/Finite_T1_Space_is_Discrete
+- https://proofwiki.org/wiki/Category:Finite_Topological_Spaces
+
+## My MSE thought and look around
+
+- [Distinguishing topology from metrics](https://math.stackexchange.com/questions/4118869/distinguishing-topology-from-metrics/4118884#4118884)
+
+- [Definitions and coincidences of the topology of pointwise convergence and the uniformity of uniform convergence](https://math.stackexchange.com/questions/312589/definitions-and-coincidences-of-the-topology-of-pointwise-convergence-and-the-un?rq=1)
+
+- [What is Topology of compact-convergence?](https://math.stackexchange.com/questions/560978/what-is-topology-of-compact-convergence?rq=1)
+
+- [Do we need full 𝖠𝖢 to efficiently use](https://math.stackexchange.com/questions/3809588/do-we-need-full-mathsfac-to-efficiently-use-subbases)
+
+- [Only base in definition of compactness - do we need AC](https://math.stackexchange.com/questions/3440622/only-base-in-definition-of-compactness-do-we-need-ac?rq=1)
+
+- [Question about a base for a topology](https://math.stackexchange.com/questions/472604/question-about-a-base-for-a-topology?rq=1)
+
+- [Is the closure of a countable 𝐺𝛿
+  set countable?](https://math.stackexchange.com/questions/1919450/is-the-closure-of-a-countable-g-delta-set-countable)
+
+- [Set-Theoritical](https://www.math.uni-hamburg.de/home/khomskii/ALST/slides.pdf)
+
+- [Why use ZF over NFU?](https://math.stackexchange.com/questions/193198/why-use-zf-over-nfu)
+
+- [How badly does foundation fail in NF](https://math.stackexchange.com/questions/3017635/how-badly-does-foundation-fail-in-nfetc)
+
+- [“How many” separation axioms are there?](https://math.stackexchange.com/questions/4102348/how-many-separation-axioms-are-there?rq=1)

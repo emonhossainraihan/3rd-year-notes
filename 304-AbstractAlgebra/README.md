@@ -68,3 +68,30 @@ normal subgroup **5Z** + quotient group **Z/5Z** <= subgroup **5Z** <= group **Z
 
 - [groupproperties](https://groupprops.subwiki.org/)
 - [S3](https://math.stackexchange.com/a/1726730/726308)
+
+## MIT opencourse
+
+- https://ocw.mit.edu/courses/mathematics/18-703-modern-algebra-spring-2013/lecture-notes/
+
+## Applications
+
+- https://www.quora.com/What-are-some-real-life-applications-of-abstract-algebra
+- https://www.quora.com/Why-do-we-need-to-study-abstract-algebra
+
+##Revisit Topics
+
+- [How would you explain even and odd permutations](https://www.quora.com/How-would-you-explain-even-and-odd-permutations)
+- [The Alternating Group](http://ramanujan.math.trinity.edu/rdaileda/teach/s19/m3362/alternating.pdf)
+- [Alternative proof about the order of the alternating group](https://math.stackexchange.com/q/46511/736159)
+- [Why are subgroups important in group theory](https://math.stackexchange.com/q/2054239/736159)
+- [Complex of group](https://webhome.weizmann.ac.il/home/fnkirson/Alg13/3.Subgroups_and_complexes.pdf)
+
+## SubGroup
+
+I would also argue that studying subgroups is of independent interest. More generally, if I want to understand a class of mathematical structures (groups, rings, topological spaces, linear orderings, ...), then I also want to understand how objects in that class relate to each other: in particular, how can I build new ones from old ones? This question often splits into three sub-questions:
+
+- How can I transform one object into another?
+- How can I combine lots of objects into one big object?
+- How can I take one object, and "shrink" it to get another object?
+
+Sometimes a lot of information. For example, a finite group is cyclic iff it has one unique subgroup of every order dividing its order, and a group (in general) is solvable iff it has one normal subgroup such that it and the quotient group it determines are solvable...and many other things. Even simpler: in finite groups, the order of a subgroup stricly restricts the possible order of the whole group.
