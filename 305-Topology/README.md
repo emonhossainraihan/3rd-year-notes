@@ -1,3 +1,5 @@
+[Tricki: mathematical problem-solving techniques](http://www.tricki.org/)
+
 [Set-Theory](https://www.britannica.com/science/set-theory/Axiomatic-set-theory)
 
 ## Why should one study topology?
@@ -107,6 +109,21 @@ Boundaries of the unit balls B1(0) in R2 for the ℓ1-norm (diamond),the ℓ2-no
 - https://proofwiki.org/wiki/Finite_T1_Space_is_Discrete
 - https://proofwiki.org/wiki/Category:Finite_Topological_Spaces
 
+> Urysohn's metrization theorem states that every second-countable, Hausdorff regular space is metrizable. It follows that every such space is completely normal as well as paracompact. Second-countability is therefore a rather restrictive property on a topological space, requiring only a separation axiom to imply metrizability.
+
+- A countable product of second-countable spaces is second countable, but an uncountable product of second-countable spaces need not even be first countable.
+- A product of at most continuum many separable spaces is separable
+
+- Sequential spaces are exactly those topological spaces where a subset with this property never fails to be open. Sequential spaces can be viewed as exactly those spaces X where for any single given subset S ⊆ X , knowledge of which sequences in X converge to which point(s) of X (and which don't) is sufficient to determine whether or not S is closed in X. Thus sequential spaces are those spaces X for which sequences in X can be used as a "test" to determine whether or not any given subset is open (or equivalently, closed) in X; or said differently, sequential spaces are those spaces whose topologies can be completely characterized in terms of sequence convergence.
+
+- A nicer local base 𝐵𝑥 can be used to understand the topology at 𝑥, since to test whether a set 𝑈 is a neighborhood of 𝑥 you just have to test whether 𝑈 contains some element of 𝐵𝑥.
+
+- A space is first-countable if there exists a countable local base at every point. This has all sorts of powerful consequences: for instance, in a first-countable space a set 𝐴 is closed iff it is closed under taking limits of sequences.
+  Frequently, there are too many open sets. It is nice to be able to verify topological assertions (like continuity, for example) in terms of a smaller subclass which is more manageable.
+  As an analogy, consider the notion of basis of a vector space. It is quite good that we can, for instance, have a linear map entirely determined by its values on a basis. The concept of basis helps us to represent the whole structure in terms of a smaller, hopefully more manageable subclass. This is the idea.
+
+- [examples of spaces, which are not sequential and examples of spaces which are not Frechet-Urysohn](https://math.stackexchange.com/a/760733/736159)
+
 ## My MSE thought and look around
 
 - [Distinguishing topology from metrics](https://math.stackexchange.com/questions/4118869/distinguishing-topology-from-metrics/4118884#4118884)
@@ -131,3 +148,59 @@ Boundaries of the unit balls B1(0) in R2 for the ℓ1-norm (diamond),the ℓ2-no
 - [How badly does foundation fail in NF](https://math.stackexchange.com/questions/3017635/how-badly-does-foundation-fail-in-nfetc)
 
 - [“How many” separation axioms are there?](https://math.stackexchange.com/questions/4102348/how-many-separation-axioms-are-there?rq=1)
+
+[To get an idea of what algebraic topology is about, think about the fact that we live on the surface of a sphere but locally this is difficult to distinguish from living on a flat plane. One way of telling that we live on a sphere is to measure the sum of the three angles of a triangle. For a small triangle, it is slightly more than 180 degrees. For a large triangle, it is much more. This tells us that we live on a surface with what is called positive curvature. But, since we can use small triangles, this is a local property, not a global one. It properly belongs to the field known as differential geometry. Algebraic topology is concerned with the whole surface and points to the obvious fact that the surface of a sphere is a finite area with no boundary and the flat plane does not have this property. It expresses this fact by assigning invariant groups to these and other spaces. Usually, these groups are something called homotopy groups or another kind called homology groups. The groups are invariant in the sense that they do not change if the space is continuously deformed. The sphere is assigned an infinite group which is a measure of the fact that the sphere has a hole in it and the plane is assigned the zero group because it does not. The fact that these groups are different tells us that the spaces are fundamentally globally different. No doubt about it. Algebraic topology includes but is not confined to the study of spaces of dimensions only two or three. It includes, for example, the contemplation of the shape of the three dimensional universe itself or even the contemplation of the shape of the four dimensional space-time.](https://people.math.rochester.edu/faculty/jnei/algtop.html)
+
+https://www.maths.ed.ac.uk/~v1ranick/papers/diecktop.pdf
+
+https://uwaterloo.ca/pure-mathematics/about-pure-math/what-is-pure-math
+
+https://www.britannica.com/science/mathematics
+
+## terrytao Blog
+
+- [Show that every compact subset of Hausdorff is closed.](https://math.stackexchange.com/questions/1329760/proving-that-a-compact-subset-of-a-hausdorff-space-is-closed)
+
+- [every closed subset in {X} is compact + Compactness](https://ece.iisc.ac.in/~parimal/2015/proofs/lecture-20.pdf)
+
+- [Metric topology V: Compactness](http://people.math.harvard.edu/~elkies/M55b.10/top5.pdf)
+
+- [Compact Hausdorff spaces are normal](https://math.stackexchange.com/questions/1329866/compact-hausdorff-spaces-are-normal)
+
+- [In what order to prove different forms of the Bolzano-Weierstrass theorem and the Heine-Borel theorem is the easiest way](https://math.stackexchange.com/questions/1500345/in-what-order-to-prove-different-forms-of-the-bolzano-weierstrass-theorem-and-th)
+
+## Pure Set theoritical
+
+Zorn’s lemma:
+
+> If every totally ordered subset of a partially ordered set `S` has an upper bound, then `S` contains a maximal element.
+
+Zorn’s lemma is not intuitive, but it turns out to be logically equivalent to more readily appreciated statements from set theory like the Axiom of Choice (which says the Cartesian product of any family of nonempty sets is nonempty).
+
+The reason for calling Zorn’s lemma a lemma rather than an axiom is purely historical. Zorn’s lemma is also equivalent to the Well-Ordering Principle (which says every nonempty set has a well-ordering: that means a total ordering in which every nonempty subset has a least element),but do not confuse the totally ordered subsets in the hypotheses of Zorn’s lemma with well-orderings on the whole set. They are different concepts, and you should never invoke the Well-Ordering Principle in the middle of an application of Zorn’s lemma unless you really want to make bad mistakes. Zorn’s lemma provides no mechanism to find a maximal element whose existence it asserts.
+
+The applications we will make of Zorn’s lemma are to algebra, but it shows up in many other areas. For instance, the most important result in functional analysis is the Hahn-Banach theorem, whose proof uses Zorn’s lemma. Another result from functional analysis,the Krein-Milman theorem, is proved using Zorn’s lemma. (The Krein-Milman theorem is an example where Zorn’s lemma is used to prove the existence of something that is more naturally a minimal element than a maximal element.) In topology, the most important theorem about compact spaces is Tychonoff’s theorem, and it is proved using Zorn’s lemma.
+
+The essential uses of Zorn’s lemma are for truly infinite objects, where onehas to make infinitely many choices at once in a rather extreme way.
+
+## Filter
+
+In topology and analysis, filters are used to define convergence in a manner similar to the role of sequences in a metric space.
+
+In topology and related areas of mathematics, a filter is a generalization of a net. Both nets and filters provide very general contexts to unify the various notions of limit to arbitrary topological spaces.
+
+A sequence is usually indexed by the natural numbers, which are a totally ordered set. Thus, limits in first-countable spaces can be described by sequences. However, if the space is not first-countable, nets or filters must be used. Nets generalize the notion of a sequence by requiring the index set simply be a directed set. Filters can be thought of as sets built from multiple nets. Therefore, both the limit of a filter and the limit of a net are conceptually the same as the limit of a sequence.
+
+## Product Topology
+
+https://math.stackexchange.com/questions/482827/cantor-set-and-ternary-expansions
+
+![](./images/cantor-set-ternary-expansions.png)
+
+[The Cantor set is homeomorphic to infinite product of {0,1} with itself](https://math.stackexchange.com/questions/69905/the-cantor-set-is-homeomorphic-to-infinite-product-of-0-1-with-itself-cy)
+
+[Application of subbase](https://math.stackexchange.com/a/2453461/736159)
+
+[basis subbasis dis](https://math.stackexchange.com/questions/449554/difference-between-basis-and-subbasis-in-a-topology)
+
+[Why are box topology and product topology different on infinite products of topological spaces](https://math.stackexchange.com/q/871610/736159)

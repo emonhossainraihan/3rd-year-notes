@@ -53,3 +53,25 @@ Several variable calculus
 ## Lecture-08
 
 ## http://www.supermath.info/math332.pdf
+
+## Lecture-17
+
+Theorem 3.2 several variable calculus
+
+## Self
+
+- [Differentiable Functions from Rn to Rm and Their Components ](http://mathonline.wikidot.com/differentiable-functions-from-rn-to-rm-and-their-components)
+
+- [Derivative of Linear Map](https://math.stackexchange.com/questions/392237/derivative-of-linear-map)
+
+- Show that, if 𝑈⊆ℝ𝑛 is connected and open, and 𝑓:𝑈→ℝ is differentiable with 𝐷𝑓=0 , show 𝑓 is constant
+
+https://math.stackexchange.com/questions/1946800/show-that-if-u-subseteq-mathbbrn-is-connected-and-open-and-fu-rightarr
+
+[Clear the topology definition from comment section](https://math.stackexchange.com/questions/4127386/exercise-2-from-terry-tao-blogsite-on-compactness)
+
+## [Chain Rule](https://sites.und.edu/timothy.prescott/apex/web/apex.Ch13.S5.html)
+
+Chain Rule is extremely powerful when we do not know what f, g and/or h are. It may be hard to believe, but often in “the real world” we know rate-of-change information (i.e., information about derivatives) without explicitly knowing the underlying functions. The Chain Rule allows us to combine several rates of change to find another rate of change. The Chain Rule also has theoretic use, giving us insight into the behavior of certain constructions (as we’ll see in the next section).
+
+http://www.math.toronto.edu/courses/mat237y1/20199/contents.html

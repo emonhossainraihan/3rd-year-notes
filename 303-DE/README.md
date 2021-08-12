@@ -13,3 +13,11 @@ https://math.stackexchange.com/questions/1966237/how-to-draw-a-phase-portrait-of
 https://www.youtube.com/watch?v=hCShTLmeZN4
 
 $$f(x)=x^2$$
+
+## Dirac Delta function 
+
+https://www.reed.edu/physics/faculty/wheeler/documents/Miscellaneous%20Math/Delta%20Functions/Simplified%20Dirac%20Delta.pdf
+
+https://books.physics.oregonstate.edu/LinAlg/book-1.html
+
+https://drive.google.com/file/d/0B1cVidfJQblvQU1DR2NSSGxYT3M/view?resourcekey=0-y386RgZY00zkPO5g1XvLhw

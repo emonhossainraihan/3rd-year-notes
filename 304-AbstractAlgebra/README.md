@@ -95,3 +95,7 @@ I would also argue that studying subgroups is of independent interest. More gene
 - How can I take one object, and "shrink" it to get another object?
 
 Sometimes a lot of information. For example, a finite group is cyclic iff it has one unique subgroup of every order dividing its order, and a group (in general) is solvable iff it has one normal subgroup such that it and the quotient group it determines are solvable...and many other things. Even simpler: in finite groups, the order of a subgroup stricly restricts the possible order of the whole group.
+
+# Exam Prep
+
+- https://math.libretexts.org/Courses/Monroe_Community_College/MATH_220_Discrete_Math/6%3A_Relations/6.3%3A_Equivalence_Relations_and_Partitions
