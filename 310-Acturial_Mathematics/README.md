@@ -27,3 +27,10 @@ Why is it decreasing?
 ## Problem
 
 [5.16](https://www.youtube.com/watch?v=ZccLf2LSRKw&list=PLdMfoghed2YJhK9bdhgSLeicrwEMVWTR_&index=16)
+
+## 2nd incourse
+
+- [Annuities, Insurance and Life](http://webhome.auburn.edu/~goetehp/acttex/acttex.pdf)
+- [List of formula](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118106907.oth23)
+- [Life annuities](https://hartman.byu.edu/docs/475Files/Stat475_Chapter5.pdf)
+- [Book](http://www.ru.ac.bd/wp-content/uploads/sites/25/2019/03/409_04_-Jordan-Society-of-Actuaries-Textbook-on-Life-Contingencies.pdf)
