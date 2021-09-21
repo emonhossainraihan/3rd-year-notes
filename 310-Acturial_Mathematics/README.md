@@ -34,3 +34,5 @@ Why is it decreasing?
 - [List of formula](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118106907.oth23)
 - [Life annuities](https://hartman.byu.edu/docs/475Files/Stat475_Chapter5.pdf)
 - [Book](http://www.ru.ac.bd/wp-content/uploads/sites/25/2019/03/409_04_-Jordan-Society-of-Actuaries-Textbook-on-Life-Contingencies.pdf)
+
+https://users.math.msu.edu/users/valdezea/stt455f14/STT455Weeks9to11-F2014.pdf
