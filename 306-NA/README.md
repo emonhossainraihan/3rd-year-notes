@@ -55,3 +55,21 @@ https://www.mpp.mpg.de/~jingliu/ECPI/PowerMethodProof.pdf
 Gershgorin Circle Theorem to estimate the eigenvalues: https://scicomp.stackexchange.com/a/1804
 
 To get good bounds for a general matrix, one must compute an approximate eigensystem and then express the matrix in this basis by a simiarity transform. This doesn't change the eigenvalues but makes the off-diagonal entries small, so that the above applies.
+
+## Schur decomposition
+
+- http://web.math.ucsb.edu/~padraic/ucsb_2013_14/math108b_w2014/math108b_w2014_lecture5.pdf
+
+## Projection onto a subspace
+
+- https://math.stackexchange.com/questions/4198263/projection-on-to-a-subspace-and-orthogonal-basis-confusion?rq=1
+
+## Nice Book
+
+- https://engcourses-uofa.ca/books/numericalanalysis/
+- https://rosettacode.org/wiki/QR_decomposition
+- https://ocw.mit.edu/courses/mathematics/18-330-introduction-to-numerical-analysis-spring-2012/lecture-notes/
+
+## Visualization of QR method
+
+- https://www.youtube.com/watch?v=d-yPM-bxREs
