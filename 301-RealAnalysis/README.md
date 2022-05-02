@@ -75,3 +75,5 @@ https://math.stackexchange.com/questions/1946800/show-that-if-u-subseteq-mathbbr
 Chain Rule is extremely powerful when we do not know what f, g and/or h are. It may be hard to believe, but often in “the real world” we know rate-of-change information (i.e., information about derivatives) without explicitly knowing the underlying functions. The Chain Rule allows us to combine several rates of change to find another rate of change. The Chain Rule also has theoretic use, giving us insight into the behavior of certain constructions (as we’ll see in the next section).
 
 http://www.math.toronto.edu/courses/mat237y1/20199/contents.html
+
+[Limit point of sequence vs limit point of the set containing all point of the sequence](https://math.stackexchange.com/q/577198/736159)
